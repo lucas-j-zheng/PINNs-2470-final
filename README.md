@@ -1,4 +1,4 @@
-#Physics-Informed Source Localization via RL-driven Adaptive Sampling PINNs
+# Physics-Informed Source Localization via RL-driven Adaptive Sampling PINNs
 
 ### Final Project for CSCI2470 F25 by Lucas Zheng, Yash Kothari, Kevin Pan, and Fillip Cutiuba
 
